@@ -1,6 +1,6 @@
 # 🎧 SKN25-2nd-1Team
 
-### KKBOX Churn Prediction & Targeting Dashboard
+### KeepTune AI : 구독 이탈 방지 솔루션
 📺 [Youtube link](https://youtu.be/zir0PZyhF2w)
 
 
